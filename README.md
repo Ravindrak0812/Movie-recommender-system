@@ -21,9 +21,4 @@ This will launch a web app where you can enter the name of a movie and get recom
 Credits:
 This project was created by Ravindra Kumar.
 
-License:
-This project is licensed under the MIT License.
-
-
-
 Dataset File link -> "https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv"
